@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+h5{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.divWhats{
+    text-align: center;
+    align-items: center;
+}
+
+
+.bi-whatsapp{
+    color: green;
+}
+
+a:link {
+    text-decoration: none;
+}
+
